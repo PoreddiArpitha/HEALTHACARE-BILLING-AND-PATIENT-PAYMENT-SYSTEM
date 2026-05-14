@@ -1,4 +1,5 @@
-````# 🎯 **Project Title**
+````md
+# 🎯 **Project Title**
 # 🏥 Comprehensive Healthcare Billing and Patient Payment System
 
 ##  Objective
